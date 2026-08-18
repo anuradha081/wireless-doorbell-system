@@ -164,6 +164,4 @@ The project provided practical exposure to RF communication, Arduino programming
 * Are Leela Sahith
 * Thota Gowreesh
 
-## 📜 License
 
-This project is intended for educational and academic purposes.
